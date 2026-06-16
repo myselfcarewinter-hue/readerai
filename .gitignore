@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+faiss_index
+*.index
+uploaded.pdf
+.env
+.venv/
+venv/
